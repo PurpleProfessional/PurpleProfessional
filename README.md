@@ -12,6 +12,7 @@ Apart from coding, I also make videos on my Youtube Channel! - You can find that
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SpexzYT/About-Me">
