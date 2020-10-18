@@ -38,8 +38,10 @@ Apart from coding, I also make videos on my Youtube Channel! - You can find that
 
 <!-- links to your social media accounts -->
 
-[2]: https://github.com/SpexzYT
-[3]: https://www.youtube.com/channel/UCQvfco7eH9RZ_zXeAaKNxRA?view_as=subscriber
+[1]: https://github.com/SpexzYT
+[2]: https://www.youtube.com/channel/UCQvfco7eH9RZ_zXeAaKNxRA?view_as=subscriber
+[3]: https://www.roblox.com/users/389288880/profile
+[4]: https://discord.gg/a8bpDq3
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
