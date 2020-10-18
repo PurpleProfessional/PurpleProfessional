@@ -35,7 +35,6 @@ Apart from coding, I also make videos on my Youtube Channel! - You can find that
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/SpexzYT
