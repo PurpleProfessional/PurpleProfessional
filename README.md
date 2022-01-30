@@ -1,10 +1,7 @@
 # Hey Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Spexz and I am a young NodeJS Developer! I work mostly On Discord Bots, So You Can Find My Discord Server [Here](https://discord.gg/WBr5GSsujr) And You Can Subscribe To Me On YouTube [Here](https://www.youtube.com/channel/UCQvfco7eH9RZ_zXeAaKNxRA?sub_confirmation=1). Also, If You Want To Invite My Discord Bot To Your Server, YOu Can Do So [Here](https://discord.com/api/oauth2/authorize?client_id=775158721478787083&permissions=8&scope=bot)
+My name is Matteus and I am a young Full Stack Developer! 
 
-## &#x270d; YouTube & Website
-
-Apart from coding, I also make videos on my Youtube Channel! - You can find that [here](https://www.youtube.com/channel/UCQvfco7eH9RZ_zXeAaKNxRA?view_as=subscriber)!. You can also find my website, that shows some of my work and my socials here!
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -15,10 +12,10 @@ Apart from coding, I also make videos on my Youtube Channel! - You can find that
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/SpexzYT/About-Me">
+<a href="https://github.com/Matteus101/About-Me">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpexzYT&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/SpexzYT/MartinHeinz">
+<a href="https://github.com/Matteus101/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpexzYT&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Spexz's GitHub Stats" />
 </a>
 
