@@ -13,10 +13,10 @@ My name is Matteus and I am a young Full Stack Developer!
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Matteus101/About-Me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpexzYT&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matteus101&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Matteus101/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpexzYT&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Spexz's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matteus101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matteus' GitHub Stats" />
 </a>
 
 
@@ -35,7 +35,7 @@ My name is Matteus and I am a young Full Stack Developer!
 
 <!-- links to your social media accounts -->
 
-[1]: https://github.com/SpexzYT
+[1]: https://github.com/Matteus101
 [2]: https://www.youtube.com/channel/UCQvfco7eH9RZ_zXeAaKNxRA?view_as=subscriber
 [3]: https://www.roblox.com/users/389288880/profile
 [4]: https://discord.gg/a8bpDq3
