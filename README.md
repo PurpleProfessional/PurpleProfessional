@@ -6,7 +6,7 @@ My name is PurpleProfessional
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Batch-informational?style=flat&logo=batch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VBscript-informational?style=flat&logo=VBscript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VBScript-informational?style=flat&logo=VBscript&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
