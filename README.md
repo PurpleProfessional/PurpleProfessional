@@ -1,6 +1,6 @@
 # Hey Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is PurpleProfessional, I am a VBscript, Batch, python, html, and powershell!
+My name is PurpleProfessional, I am a VBscript, Batch, python, html, and powershell coder!
 
 
 ## 🔧 Technologies & Tools
