@@ -8,9 +8,9 @@ My name is PurpleProfessional, I am a VBscript, Batch, python, html, and powersh
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-VBScript-informational?style=flat&logo=VBscript&logoColor=white&color=2bbc8a)
 
-##📙 **Where I can be contacted:**
-Minecraft Username: PurplePro
-
+## 📙 **Where I can be contacted:**<br>
+Minecraft Username: PurplePro<br>
+Geometry Dash: Noomsy
 
 ## &#x1f4c8; GitHub Stats
 
