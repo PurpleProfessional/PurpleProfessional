@@ -10,7 +10,7 @@ My name is PurpleProfessional, I am a VBscript, Batch, python, html, and powersh
 
 ## 📙 **Where I can be contacted:**<br>
 Minecraft Username: PurplePro<br>
-Geometry Dash: Noomsy
+Discord: crimescore#6994
 
 ## &#x1f4c8; GitHub Stats
 
