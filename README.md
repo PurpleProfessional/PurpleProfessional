@@ -9,15 +9,15 @@ My name is crimescore, I am a VBscript, Batch, python, html, and powershell code
 ![](https://img.shields.io/badge/Code-VBScript-informational?style=flat&logo=VBscript&logoColor=white&color=2bbc8a)
 
 ## 📙 **Where I can be contacted:**<br>
-Minecraft Username: PurplePro<br>
-Discord: crimescore#6994
+Minecraft Username: crimescore_<br>
+Discord: crimescore#8537
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/PurpleProfessional/">
+<a href="https://github.com/crimescore/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleProfessional&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/PurpleProfessional/">
+<a href="https://github.com/crimescore/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PurpleProfessional&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="PurpleProfessional's GitHub Stats" />
 </a>
 
@@ -37,4 +37,4 @@ Discord: crimescore#6994
 
 <!-- links to your social media accounts -->
 
-[1]: https://github.com/PurpleProfessional
+[1]: https://github.com/crimescore
