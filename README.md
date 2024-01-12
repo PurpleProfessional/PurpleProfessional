@@ -9,8 +9,7 @@ My name is crimescore, I am a VBscript, Batch, python, html, and powershell code
 ![](https://img.shields.io/badge/Code-VBScript-informational?style=flat&logo=VBscript&logoColor=white&color=2bbc8a)
 
 ## 📙 **Where I can be contacted:**<br>
-Minecraft Username: crimescore_<br>
-Discord: crimescore#8537
+Discord: crimescore
 
 ## &#x1f4c8; GitHub Stats
 
